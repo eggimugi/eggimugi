@@ -57,9 +57,9 @@
 
 ## 📊 GitHub Stats
 
-![Eggi's GitHub stats](https://github-readme-stats.vercel.app/api?username=eggimugi&show_icons=true&theme=transparent)
+![Eggi's GitHub stats](https://github-readme-stats-eta-eight-58.vercel.app/api?username=eggimugi&show_icons=true&theme=transparent)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eggimugi&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats-eta-eight-58.vercel.app/api/top-langs/?username=eggimugi&layout=compact&theme=tokyonight)
 
 ---
 
